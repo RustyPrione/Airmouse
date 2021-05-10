@@ -46,7 +46,8 @@ Drop a mail to:- raghavan356@gmail.com
 ## Donation 💰
 If this project help you reduce time to develop, you can give me a cup of Tea 😃.<br>
 ![Google Pay](https://img.shields.io/badge/Donate%20Through-GooglePay-blue?style=for-the-badge&logo=gpay)
-
+```+919840385711
+```
 
 ## License 🔖
 
