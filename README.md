@@ -1,5 +1,5 @@
 # Airmouse 🖱️
-[![Python](https://img.shields.io/badge/Python%20-Python%203.8.1-yellowgreen?style=for-the-badge&logo=python)]
+![Python](https://img.shields.io/badge/Python%20-Python%203.8.1-yellowgreen?style=for-the-badge&logo=python)
 
 Airmouse concept is to provide new user experinece with the help of opencv2. 
 Using this Airmouse you can control your mouse with the help of hand recognition.
@@ -39,7 +39,7 @@ Drop a mail to:- raghavan356@gmail.com
 
 ## Donation 💰
 If this project help you reduce time to develop, you can give me a cup of Tea 😃.
-[![Google Pay](https://img.shields.io/badge/Donate%20Through-GooglePay-blue?style=for-the-badge&logo=gpay)]
+![Google Pay](https://img.shields.io/badge/Donate%20Through-GooglePay-blue?style=for-the-badge&logo=gpay)
 
 
 ## License 🔖
