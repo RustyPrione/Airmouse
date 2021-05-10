@@ -11,7 +11,7 @@ User can interact with computer with the help of hands without using physical mo
    
 * Mouse Click or Select 
   - Mouse click operation can be done by showing index and middle finger up 🤞.
-<br>
+
 ## Dependencies ⏬
 1. OpenCv2
 ```
