@@ -17,16 +17,16 @@ User can interact with computer with the help of hands without using physical mo
 ```
 pip install opencv-python
 ```
-2.Mediapipe 
+2. Mediapipe 
 ```
 pip install mediapipe
 ```
-3.Autopy
+3. Autopy
 ```
 pip install autopy
 ```
-<br>
-### Warning ⚠️
+
+## Warning ⚠️
 
 This project is develped and tested under **Python 3.8.1** 
 Because **autopy** doesn't install in **Python 3.9.1**
