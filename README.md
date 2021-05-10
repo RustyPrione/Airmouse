@@ -25,10 +25,13 @@ pip install mediapipe
 ```
 pip install autopy
 ```
+## Execution ⚙️
+After installing all dependencies,<br>
+Run or Double Click main.py to activate Air Mouse.
 
 ## Warning ⚠️
 
-This project is develped and tested under **Python 3.8.1** 
+This project is develped and tested under **Python 3.8.1** <br>
 Because **autopy** doesn't install in **Python 3.9.1**
 <br>
 ## Contact 📩
