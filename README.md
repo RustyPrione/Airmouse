@@ -35,7 +35,7 @@ Run or Double Click ***main.py*** to activate Airmouse.
 ## Warning ⚠️
 
 This project is develped and tested under **Python 3.8.1** <br>
-Because **autopy** doesn't install in **Python 3.9.1**
+Because **autopy** doesn't support in **Python 3.9.1**
 <br>
 ## Contact 📩
 Got an app/website idea? Let's Connect 🤙<br>
