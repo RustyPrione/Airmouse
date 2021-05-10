@@ -32,13 +32,13 @@ This project is develped and tested under **Python 3.8.1**
 Because **autopy** doesn't install in **Python 3.9.1**
 <br>
 ## Contact 📩
-Got an app/website idea? Let's Connect 🤙
+Got an app/website idea? Let's Connect 🤙<br>
 Drop a mail to:- raghavan356@gmail.com
 <br>
 
 
 ## Donation 💰
-If this project help you reduce time to develop, you can give me a cup of Tea 😃.
+If this project help you reduce time to develop, you can give me a cup of Tea 😃.<br>
 ![Google Pay](https://img.shields.io/badge/Donate%20Through-GooglePay-blue?style=for-the-badge&logo=gpay)
 
 
