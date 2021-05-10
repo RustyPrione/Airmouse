@@ -28,7 +28,10 @@ pip install autopy
 ## Execution ⚙️
 After installing all dependencies,<br>
 Run or Double Click main.py to activate Air Mouse.
-
+* Run Command :
+ ```
+ >python main.py
+ ```
 ## Warning ⚠️
 
 This project is develped and tested under **Python 3.8.1** <br>
